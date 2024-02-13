@@ -11,14 +11,6 @@
 With three years of enriching experience in web development, I have consolidated a solid foundation of technical knowledge, developed great versatility, and refined my organizational skills, essential for the design and implementation of complete web applications (front-end and back-end). In search of a new opportunity, I am motivated to contribute to ambitious and innovative projects, leveraging my adaptability and technical expertise to promote the success of your company.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenningsho&label=Profile%20views&color=0e75b6&style=flat" alt="jenningsho" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenningsho" alt="jenningsho" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
 - 👨‍💻 All of my projects are available at [jenningsho.com](jenningsho.com)
 
 - 📫 How to reach me **hojennings@hotmail.fr**
