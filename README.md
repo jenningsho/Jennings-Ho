@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="assets/images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/images/en-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="assets/images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
